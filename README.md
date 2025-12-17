@@ -47,5 +47,5 @@ Classificar profissões com tendência de crescimento ou declínio
 
 Apoiar análises e decisões relacionadas ao futuro do mercado de trabalho
 
-Observações
+Observações:
 Este projeto possui fins acadêmicos, sendo desenvolvido como parte de atividades de aprendizado em Inteligência Artificial e Machine Learning.
